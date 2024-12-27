@@ -1,0 +1,38 @@
+#include "Internal"
+#include "Util"
+
+#include "BaseFirework"
+#include "BaseProjectile"
+#include "BaseWeapon"
+
+#include "Buymenu"
+
+#include "projectiles/ProjectileSmall"
+#include "projectiles/ProjectileRoman"
+#include "projectiles/ProjectileWhistler"
+#include "projectiles/ProjectileSizzler"
+#include "projectiles/ProjectileLarge"
+#include "projectiles/ProjectileCracker"
+#include "projectiles/ProjectileBeans"
+
+#include "fireworks/FireworkTube"
+#include "fireworks/FireworkRoman"
+#include "fireworks/FireworkFountain"
+#include "fireworks/FireworkBottle"
+#include "fireworks/FireworkCake"
+#include "fireworks/FireworkSizzler"
+#include "fireworks/FireworkRocket"
+#include "fireworks/FireworkCrackers"
+#include "fireworks/FireworkBeans"
+
+#include "weapons/WeaponTube"
+#include "weapons/WeaponRoman"
+#include "weapons/WeaponFountain"
+#include "weapons/WeaponBottle"
+#include "weapons/WeaponCake"
+#include "weapons/WeaponSizzler"
+#include "weapons/WeaponRocket"
+#include "weapons/WeaponCrackers"
+#include "weapons/WeaponBeans"
+
+#include "FireworksPile"

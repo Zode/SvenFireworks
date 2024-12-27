@@ -1,0 +1,5 @@
+4
+weapon			640 fireworks/hud	0	135	170	45
+weapon_s		640 fireworks/hud	170	135	170	45
+ammo			640	fireworks/hud	1	1	1	1
+ammo2			640	fireworks/hud	1	1	1	1
